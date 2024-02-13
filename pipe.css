@@ -6,7 +6,9 @@ body{
 
 #firstpart{
   text-align: center;
+  font-size:50px;
 }
+
 
 
 #label1
@@ -23,6 +25,7 @@ body{
  background-color:grey;
  color:white;
   border-radius: 7px;
+  font-size:50px;
 }
 
 /*Second part*/
@@ -30,6 +33,7 @@ body{
 
 #secondpart{
   text-align: center;
+  font-size:50px;
 }
 #diameter
 {
@@ -42,7 +46,8 @@ body{
 {
  background-color:grey;
  color:white;
-  width:100px;
+  width:150px;
+ font-size:50px;
 }
 
 #measurement1
@@ -50,6 +55,7 @@ body{
  background-color:grey;
  color:white;
   border-radius: 7px;
+  font-size:50px;
 }
 
 #measurement1:active{
@@ -60,6 +66,7 @@ body{
 
 #thirdpart{
   text-align: center;
+  font-size:50px;
 }
 
 #thickness
@@ -73,7 +80,8 @@ body{
 {
  background-color:grey;
  color:white;
-  width:100px;
+  width:150px;
+  font-size:50px;
 }
 
 #measurement2
@@ -81,6 +89,7 @@ body{
  background-color:grey;
  color:white;
   border-radius: 7px;
+  font-size:50px;
 }
 
 #measurement2:active{
@@ -91,6 +100,7 @@ body{
 
 #fourthpart{
   text-align: center;
+  font-size:50px;
 }
 
 #length
@@ -104,7 +114,8 @@ body{
 {
  background-color:grey;
  color:white;
-  width:100px;
+  width:150px;
+  font-size:50px;
 }
 
 #measurement3
@@ -112,12 +123,14 @@ body{
  background-color:grey;
  color:white;
   border-radius: 7px;
+  font-size:50px;
 }
 
 /*result*/
 
 #fifthpart{
   text-align: center;
+  font-size:50px;
 }
 
 #result
@@ -130,12 +143,21 @@ body{
 
 #sixthpart{
   text-align: center;
+  font-size:50px;
 }
 
 #compute
 {
  background-color:grey;
  color:white;
-  font-size: 30px;
+  font-size:50px;
   border-radius: 7px;
+}
+
+#unorderedlistdiameter
+{
+  background-color:grey;
+ color:white;
+  font-size: 30px;
+  text-align: center;
 }
